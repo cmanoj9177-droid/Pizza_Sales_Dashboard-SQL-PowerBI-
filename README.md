@@ -1,4 +1,4 @@
-# Pizza_Sales_Dashboard-SQL-PowerBI-
+# Pizza_Sales_Dashboard-(SQL&PowerBI)
 Key Insights
 
 Calculated total revenue to measure overall business performance.
